@@ -1,3 +1,10 @@
+This project is available under the GPL-3.0+ License.
+
+Original source code by John Ryan. Uploaded to be shared with the HackHarassment Community.
+
+Classifier and scraper of Twitter data.
+
+
 ***
 *** NOTE: gunzip the /data/*corpus.txt.gz files before following the instructions below ***
 ***
