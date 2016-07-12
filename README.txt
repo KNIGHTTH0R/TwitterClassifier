@@ -1,6 +1,6 @@
 This project is available under the GPL-3.0+ License.
 
-Original source code by John Ryan. Uploaded to be shared with the HackHarassment Community.
+Original source code by M. Hart. Uploaded to be shared with the HackHarassment Community.
 
 Classifier and scraper of Twitter data.
 
